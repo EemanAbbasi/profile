@@ -1,6 +1,6 @@
 ---
-title: "Project: The Role of Competition and Mutualism in Microbiome and Host Immune Interactions"
-excerpt: "This research investigates the dynamic interplay between microbial competition, mutualism, and host immune responses, focusing on its implications for stomach cancer. <br/><img src='/images/project_visual.png'>"
+title: "Bioinformatics Insights: Stomach Cancer Microbiome"
+excerpt: "Combines the feild of immunology, canacer biology, microbiology and ecology to understand how ecological characteristics of microbial communities within a stomach cancer patient affects patient survival outcomes"
 collection: projects
 ---
 
