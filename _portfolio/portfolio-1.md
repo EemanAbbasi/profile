@@ -5,9 +5,6 @@ collection: projects
 ---
 
 ## Project Overview
-**Researcher:** [Your Name]  
-**Institution:** [Your Institution]  
-**Completion Date:** 2024  
 
 This project examines the complex relationships between microbial interactions within the host and how these interactions are influenced by and impact the host's immune system. With a focus on stomach cancer, the project utilizes data from The Cancer Genome Atlas (TCGA) to explore how variations in microbial community characteristics affect disease outcomes.
 
