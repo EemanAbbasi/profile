@@ -1,6 +1,6 @@
 ---
 title: "Bioinformatics Insights: Stomach Cancer Microbiome"
-excerpt: "Combines the feild of immunology, cancer biology, microbiology and ecology to understand how ecological characteristics of microbial communities within a stomach cancer patient affects patient survival outcomes"
+excerpt: "Combines the field of immunology, cancer biology, microbiology and ecology to understand how ecological characteristics of microbial communities within a stomach cancer patient affects patient survival outcomes"
 collection: projects
 ---
 
